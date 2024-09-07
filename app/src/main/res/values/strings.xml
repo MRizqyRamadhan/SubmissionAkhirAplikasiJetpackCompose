@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Kyaahobbyshop</string>
+    <string name="menu_home">Home</string>
+    <string name="menu_cart">Keranjang</string>
+    <string name="menu_profile">Profile</string>
+    <string name="required_point">Rp.%.3f</string>
+    <string name="minus_symbol">—</string>
+    <string name="plus_symbol">＋</string>
+    <string name="add_to_cart">Tambah ke Keranjang : Rp.%.3f</string>
+    <string name="total_order">Total pesanan : Rp.%.3f</string>
+    <string name="back">Back</string>
+    <string name="dicoding_reward">Kyaahobbyshop Reward</string>
+    <string name="share_message">Bagikan Pesanan</string>
+    <string name="search_hero">Dapatkan Jaket Impianmu</string>
+    <string name="my_name">Muhammad Rizqy Ramadhan</string>
+    <string name="bangkit">Bangkit Cohort 2024 Batch 1</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="age">Age</string>
+    <string name="number">21</string>
+    <string name="location">Location</string>
+    <string name="country">Bekasi, Indonesia</string>
+    <string name="email">Email</string>
+    <string name="gmail">muhammadrizqyramadhan10@gmail.com</string>
+</resources>
